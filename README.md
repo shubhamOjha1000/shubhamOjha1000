@@ -16,8 +16,8 @@
 I am Shubham Ojha, currently **research intern** at **[IIT Kharagpur(KLIV research group)](https://iitkliv.github.io)**. In the past, I had the fortune of interning at [**Tech Mahindra AI Lab**](http://www.coeaibbsr.in),[**Omdena**](https://omdena.com) & [**IIT Patna**](https://www.iitp.ac.in/index.php/departments/engineering-technology/computer-science-and-engineering) working on wide spectrum research verticals of AI.
 
 - My interests are quite wide as I strongly belive that rather than going deep in one domain its imp to increase the breadth:
-     - **How to go beyon IID hypothesis i.e. to develope algorithms which are roboust to OOD.** I belive that in order to go beyond IID hypothesis, we need to do following things :- 1. Induce some amount of prior in the model, 2. Need to introduce concept of agent-environment so that models learns a robust represenation(disentangle the various underlying explanatory factors of variations).
-     - **AI for natural sciences** 
+     - **How to go beyon IID hypothesis i.e. to develope algorithms which are roboust to OOD.** I belive that in order to go beyond IID hypothesis, we need to do following things :- 1. Induce some amount of prior in the model, 2. Need to introduce concept of agent-environment so that models learns by interacting with env a robust represenation(disentangle the various underlying explanatory factors of variations).
+     - **AI for natural sciences**. Interested in the field of bioinformatics(such as genomics, 3D structure modelling of Proteins, biomedical imaging, novel drug desing), climate change(how to fuse data captured from the env and fuse it with domain laws to make predictions).   
      - **Aligning AI with common consesnsus of human values**
      - **AI for Education**
      - **How to quantify uncertanity in DL.** Current DL models are highly confiednt when they are wrong, this behavior is undesirable. DL models should be able to **correctly** quantify the amount of unceratnity in thier predictions. I am interested in **probablistic approach of ML** to get the desired uncertanity. 
