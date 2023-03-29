@@ -15,9 +15,9 @@
 
 I am Shubham Ojha, currently **research intern** at **[IIT Kharagpur(KLIV research group)](https://iitkliv.github.io)**. In the past, I had the fortune of interning at [**Tech Mahindra AI Lab**](http://www.coeaibbsr.in),[**Omdena**](https://omdena.com) & [**IIT Patna**](https://www.iitp.ac.in/index.php/departments/engineering-technology/computer-science-and-engineering) working on wide spectrum research verticals of AI.
 
-- My research interests include, but are not limited to:
+- My interests include, but are not limited to:
      - **How to go beyon IID hypothesis i.e. to develope algorithms which are roboust to OOD** :- Hi
-     - **Artificial Cognitive Systems** 
+     - **AI for natural sciences** 
      - **AI for Policy Making**
      
 - For any projects,ideas,discussions or collaborations feel free to reach me at my mail ✉️ : shubham.ojha1000@gmail.com
