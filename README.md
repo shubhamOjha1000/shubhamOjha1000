@@ -20,8 +20,8 @@ I am Shubham Ojha, currently **research intern** at **[IIT Kharagpur(KLIV resear
      - **AI for natural sciences** 
      - **Aligning AI with common consesnsus of human values**
      - **AI for Education**
-     - **How to quantify uncertanity in DL**
-     - **Building underlying core AI technologies upon which many AI powered products and services can be built.** For eg Query adaptive video indexing can be thought of as an AI powered service and scene understanding can be thought of as an underlying core AI technology.
+     - **How to quantify uncertanity in DL.** Current DL models are highly confiednt when they are wrong, this behavior is undesirable. DL models should be able to **correctly** quantify the amount of unceratnity in thier predictions. I am interested in **probablistic approach of ML** to get the desired uncertanity. 
+     - **Building underlying core AI technologies upon which many AI powered products and services can be built.** For eg Query adaptive video indexing can be thought of as an AI powered service and scene understanding can be thought of as an underlying core AI technology. 
      
 - For any projects,ideas,discussions or collaborations feel free to reach me at my mail ✉️ : shubham.ojha1000@gmail.com
 
