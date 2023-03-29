@@ -19,6 +19,8 @@ I am Shubham Ojha, currently **research intern** at **[IIT Kharagpur(KLIV resear
      - **How to go beyon IID hypothesis i.e. to develope algorithms which are roboust to OOD** :- Hi
      - **AI for natural sciences** 
      - **Aligning AI with common consesnsus of human values**
+     - **AI for Education**
+     - **How to quantify uncertanity in DL**
      
 - For any projects,ideas,discussions or collaborations feel free to reach me at my mail ✉️ : shubham.ojha1000@gmail.com
 
