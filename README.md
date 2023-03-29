@@ -21,7 +21,7 @@ I am Shubham Ojha, currently **research intern** at **[IIT Kharagpur(KLIV resear
      - **Aligning AI with common consesnsus of human values**
      - **AI for Education**
      - **How to quantify uncertanity in DL**
-     - **Building underlying core AI technologies upon which many AI powered products and services can be built.** For eg
+     - **Building underlying core AI technologies upon which many AI powered products and services can be built.** For eg 
      
 - For any projects,ideas,discussions or collaborations feel free to reach me at my mail ✉️ : shubham.ojha1000@gmail.com
 
