@@ -15,7 +15,7 @@
 
 I am Shubham Ojha, currently **research intern** at **[IIT Kharagpur(KLIV research group)](https://iitkliv.github.io)**. In the past, I had the fortune of interning at [**Tech Mahindra AI Lab**](http://www.coeaibbsr.in),[**Omdena**](https://omdena.com) & [**IIT Patna**](https://www.iitp.ac.in/index.php/departments/engineering-technology/computer-science-and-engineering) working on wide spectrum research verticals of AI.
 
-- My interests include, but are not limited to:
+- My interests are quite wide as I strongly belive that rather than going deep in one domain its imp to increase the breadth:
      - **How to go beyon IID hypothesis i.e. to develope algorithms which are roboust to OOD** :- Hi
      - **AI for natural sciences** 
      - **Aligning AI with common consesnsus of human values**
